@@ -1,0 +1,6 @@
+# Slp-tea-protocol# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x7A47780331057F6789ABE2b4AB9157dF7b8A3ba1'
+quorum: 1
